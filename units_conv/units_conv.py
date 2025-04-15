@@ -64,7 +64,7 @@ def freq(val):
     cap = si(val) + "Hz"
     return(cap)
 
-def unit_to_val(arg): 
+def valufy(arg): 
     unit = ""
     val = ""
     si_vals = {
