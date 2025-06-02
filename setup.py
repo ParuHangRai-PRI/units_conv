@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="units_conv",  # Your package name
-    version="1.0.0",   # Version number
+    version="1.0.2",   # Version number
     author="PHR",
     author_email="your.email@example.com",
     description="converts string inputs of electical parameters to equivalent float.",
