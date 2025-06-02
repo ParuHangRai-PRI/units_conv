@@ -96,4 +96,4 @@ def valufy(arg):
             return float(val)
 
 
-print(valufy("9.9999999999"))
+
